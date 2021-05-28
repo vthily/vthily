@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vthily
-- 👀 I’m interested in cloud, docker, k8s, data processing, data analytic, ios, question answering, chatbot
+- 👀 I’m interested in cloud, docker, k8s, vault, data processing, data analytic, ios, question answering, chatbot
 - 🌱 I’m currently learning all of above
-- 💞️ I’m looking to collaborate on software development, software architect
+- 💞️ I’m looking to collaborate on software development, software architect, terraform, vault
 - 📫 How to reach me via [personal email](mai.vly@gmail.com)
 
 <!---
